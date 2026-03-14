@@ -1,7 +1,7 @@
-My Discrete Math Repository
-Homework 2 - 202412551 LIM SU HEE
+#My Discrete Math Repository
+#Homework 2 - 202412551 LIM SU HEE
 2.1 Equation Editing
-#	text	formula
+text	formula
 1	IF (P AND Q) THEN R	
 P
 2	(P XOR Q) OR R	
